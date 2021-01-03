@@ -306,6 +306,7 @@
   
   .base-timer__svg {
     transform: scaleX(-1);
+    filter: drop-shadow(0px 0px 10px rgba(255, 255, 255, 0.9));
   }
   
   .current-score-container {
